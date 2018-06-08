@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="main_error_connection">Failed to connect, please try again later</string>
+    <string name="main_menu_list">LocationList</string>
+    <string name="locations_list">My Locations</string>
+    <string name="title_activity_list">My Locations</string>
+</resources>
